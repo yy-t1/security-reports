@@ -15,4 +15,4 @@ Tenda 5G03（固件 V05.03.01.26，硬件 V1.1）的 httpd 服务在处理 `setM
 - Sink：`system("ifconfig %s mtu %s", ifname, mtu)` @ 0x41f4e4
 - 相邻字段均做了校验，唯独 `mtu` 漏了。
 
-![image-20260907223357748](C:\Users\tyy\AppData\Roaming\Typora\typora-user-images\image-20260907223357748.png)
+![image-20260907223357748](./image-20260907223357748.png)
